@@ -1,0 +1,7 @@
+hello f1
+     {printf}
+       {scanf}
+         {result="new code"}
+	    {the code will be f1}
+     {install}
+exit
