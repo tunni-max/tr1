@@ -1,7 +1,0 @@
-hello f11
-     {printf}
-       {scanff}
-         {result="new code"}
-	    {the code will be f1}
-     {install}
-exit
