@@ -1,9 +1,0 @@
-mkdir file
-ls
-cd tr1
-pwd
-ls
-f1 f2
-vi f2
-nothing
-:q!
