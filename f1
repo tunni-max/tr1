@@ -1,7 +1,7 @@
-hello f1
+hello f2
      {printf}
        {scanf}
-         {result="new code"}
-	    {the code will be f1}
+         {result="new code"2}
+	    {the code will be f2}
      {install}
-exit
+exit or leave
